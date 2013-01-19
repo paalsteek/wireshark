@@ -671,6 +671,7 @@ DISSECTOR_SRC = \
 	packet-hdfs.c		\
 	packet-hdfsdata.c	\
 	packet-hdmi.c		\
+	packet-hexabus.c \
 	packet-hip.c		\
 	packet-homeplug-av.c	\
 	packet-homeplug.c	\

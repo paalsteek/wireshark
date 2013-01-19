@@ -221,6 +221,7 @@ set(ASN1_DISSECTOR_SRC
 	dissectors/packet-h450-ros.c
 	dissectors/packet-h460.c
 	dissectors/packet-h501.c
+	dissectors/packet-hexabus.c
 	dissectors/packet-hnbap.c
 	dissectors/packet-idmp.c
 	dissectors/packet-ilp.c
